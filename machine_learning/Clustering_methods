@@ -1,10 +1,10 @@
-K-means
-Affinity Propogation
-Mean-Shift
-Spectral Clustering
+K-means (distance between points)
+Affinity Propogation (graph distance)
+Mean-Shift (distance between points)
+Spectral Clustering (graph distance)
 Ward Hierarichal Clusterting
-Agglomerative Clustering
-DBSCAN
+Agglomerative Clustering 
+DBSCAN (distance between nearest points)
 OPTICS
-Gaussian Mixtures
+Gaussian Mixtures  (Mahalanobis distance to centers)
 BIRCH
